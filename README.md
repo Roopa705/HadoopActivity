@@ -124,3 +124,39 @@ data 1
 powerful 1
 world 1
    ```
+## Input: 
+ ```bash
+   Hello, This is Roopa Naisa.
+I am doing this activity as a part of cloud computing class.
+This activity focuses on hadoop.
+To implement this activity, we need to use java and Maven.
+   ```
+
+## output: 
+ ```bash
+activity	2
+This	2
+this	2
+implement	1
+class.	1
+cloud	1
+focuses	1
+need	1
+input	1
+java	1
+Naisa.	1
+use	1
+activity,	1
+own	1
+hadoop.	1
+Create	1
+Roopa	1
+dataset	1
+your	1
+part	1
+and	1
+computing	1
+doing	1
+Maven.	1
+Hello,	1
+   ```
