@@ -1,0 +1,5 @@
+# Create your own input dataset
+Hello, This is Roopa Naisa.
+I am doing this activity as a part of cloud computing class.
+This activity focuses on hadoop.
+To implement this activity, we need to use java and Maven.
